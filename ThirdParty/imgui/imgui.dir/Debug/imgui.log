@@ -1,9 +1,21 @@
-﻿生成启动时间为 2017/12/4 16:41:27。
-     1>项目“F:\Visual Studio Projects\ArtHands\ThirdParty\imgui\imgui.vcxproj”在节点 2 上(Build 个目标)。
-     1>Lib:
+﻿生成启动时间为 2017/12/4 17:13:55。
+     1>项目“F:\Visual Studio Projects\ArtHands\ThirdParty\imgui\imgui.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : 文件“f:\visual studio projects\arthands\thirdparty\imgui\imgui.dir\debug\imgui_demo.obj”正由另一进程使用，因此该进程无法访问此文件。
+     1>ClCompile:
+         H:\VS2015\VC\bin\CL.exe /c /ZI /nologo /W1 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"imgui.dir\Debug\\" /Fd"imgui.dir\Debug\imgui.pdb" /Gd /TP /analyze- /errorReport:prompt imgui.cpp imgui_demo.cpp imgui_dock.cpp imgui_draw.cpp
+         imgui_draw.cpp
+         imgui_dock.cpp
+         imgui_demo.cpp
+         imgui.cpp
+         正在生成代码...
+       Lib:
+         H:\VS2015\VC\bin\Lib.exe /OUT:"F:\Visual Studio Projects\ArtHands\\lib\binaries\win86\imgui_d.lib" /NOLOGO imgui.dir\Debug\imgui.obj
+         imgui.dir\Debug\imgui_demo.obj
+         imgui.dir\Debug\imgui_dock.obj
+         imgui.dir\Debug\imgui_draw.obj
          imgui.vcxproj -> F:\Visual Studio Projects\ArtHands\\lib\binaries\win86\imgui_d.lib
-     1>已完成生成项目“F:\Visual Studio Projects\ArtHands\ThirdParty\imgui\imgui.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“F:\Visual Studio Projects\ArtHands\ThirdParty\imgui\imgui.vcxproj”(Rebuild 个目标)的操作。
 
 已成功生成。
 
-已用时间 00:00:00.03
+已用时间 00:00:01.51

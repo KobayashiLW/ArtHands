@@ -1,5 +1,5 @@
-﻿生成启动时间为 2017/12/4 16:41:07。
-     1>项目“F:\Visual Studio Projects\ArtHands\RayStudio\RayStudio.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2017/12/4 17:14:00。
+     1>项目“F:\Visual Studio Projects\ArtHands\RayStudio\RayStudio.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Editor.dir\Debug\) contains files shared from another project (RayStudio.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
          H:\VS2015\VC\bin\CL.exe /c /I"F:\Visual Studio Projects\ArtHands\\ThirdParty\imgui" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D FBXSDK_SHARED /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Editor.dir\Debug\\" /Fd"Editor.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Core\Scene\Camera.cpp Core\Scene\Actor.cpp Core\Math\Collision.cpp Core\Vector.cpp Core\Render\RenderPipeline.cpp Core\Scene\Level.cpp Core\Render\DeferredRender.cpp Core\Scene\EditorCamera.cpp Editor\Common\DeviceManager.cpp Editor\main.cpp Editor\Common\AppFramement.cpp Editor\Common\InfoManager.cpp Core\Texture2D.cpp Core\Render\Render.cpp Core\Render\LevelRender.cpp Core\Scene\FbxLoader.cpp Core\Scene\Material.cpp Core\Scene\ResourceManager.cpp Core\Vector2D.cpp Core\Scene\StaticMesh.cpp Core\Vector4.cpp Core\Scene\SceneOctree.cpp Core\Scene\StaticMeshActor.cpp Core\Matrix.cpp Core\Frustum.cpp Editor\Common\InputManager.cpp Core\Render\RenderEngine.cpp Editor\Common\HUD.cpp Editor\Common\UIText.cpp
@@ -347,8 +347,8 @@
          Editor.dir\Debug\HUD.obj
          Editor.dir\Debug\UIText.obj
          RayStudio.vcxproj -> F:\Visual Studio Projects\ArtHands\\lib\binaries\win86\ArtHands_d.exe
-     1>已完成生成项目“F:\Visual Studio Projects\ArtHands\RayStudio\RayStudio.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“F:\Visual Studio Projects\ArtHands\RayStudio\RayStudio.vcxproj”(Rebuild 个目标)的操作。
 
 已成功生成。
 
-已用时间 00:00:17.37
+已用时间 00:00:18.87
